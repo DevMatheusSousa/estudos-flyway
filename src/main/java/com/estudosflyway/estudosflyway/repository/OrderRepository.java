@@ -12,5 +12,4 @@ import com.estudosflyway.estudosflyway.model.User;
 public interface OrderRepository extends JpaRepository<Order, Long> {
     List<Order> findByUser(User user); //buscar ordem de pedido por usuário
     List<Order> findByStatus(String status); //buscar ordem de pedido por status
-    List<Order> findByUserAndStatus(User user, String status); //buscar ordem de pedido por usuário e status
 }
