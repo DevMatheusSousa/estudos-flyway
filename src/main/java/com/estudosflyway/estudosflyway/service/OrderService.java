@@ -9,7 +9,7 @@ import org.springframework.beans.BeanUtils;
 import org.springframework.lang.NonNull;
 import org.springframework.stereotype.Service;
 
-import com.estudosflyway.estudosflyway.dtos.OrderDTO;
+import com.estudosflyway.estudosflyway.controller.dtos.OrderDTO;
 import com.estudosflyway.estudosflyway.model.Order;
 import com.estudosflyway.estudosflyway.model.User;
 import com.estudosflyway.estudosflyway.repository.OrderRepository;

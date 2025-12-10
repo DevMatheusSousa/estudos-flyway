@@ -14,7 +14,7 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.estudosflyway.estudosflyway.dtos.ProductDTO;
+import com.estudosflyway.estudosflyway.controller.dtos.ProductDTO;
 import com.estudosflyway.estudosflyway.model.Product;
 import com.estudosflyway.estudosflyway.service.ProductService;
 

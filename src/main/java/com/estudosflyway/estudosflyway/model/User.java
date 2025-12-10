@@ -3,7 +3,7 @@ package com.estudosflyway.estudosflyway.model;
 import java.time.LocalDateTime;
 import java.util.List;
 
-import com.estudosflyway.estudosflyway.dtos.UserCreationDTO;
+import com.estudosflyway.estudosflyway.controller.dtos.UserCreationDTO;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;

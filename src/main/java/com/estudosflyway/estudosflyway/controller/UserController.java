@@ -14,7 +14,7 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.estudosflyway.estudosflyway.dtos.UserCreationDTO;
+import com.estudosflyway.estudosflyway.controller.dtos.UserCreationDTO;
 import com.estudosflyway.estudosflyway.model.User;
 import com.estudosflyway.estudosflyway.service.UserService;
 

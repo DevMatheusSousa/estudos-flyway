@@ -1,4 +1,4 @@
-package com.estudosflyway.estudosflyway.dtos;
+package com.estudosflyway.estudosflyway.controller.dtos;
 
 import java.math.BigDecimal;
 import java.time.LocalDateTime;

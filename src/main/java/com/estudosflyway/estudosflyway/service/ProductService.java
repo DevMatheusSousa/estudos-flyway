@@ -9,10 +9,10 @@ import org.springframework.beans.BeanUtils;
 import org.springframework.lang.NonNull;
 import org.springframework.stereotype.Service;
 
-import com.estudosflyway.estudosflyway.dtos.ProductDTO;
-import com.estudosflyway.estudosflyway.model.Product;
-import com.estudosflyway.estudosflyway.model.User;
-import com.estudosflyway.estudosflyway.repository.ProductRepository;
+import com.estudosflyway.estudosflyway.controller.dtos.ProductDTO; 
+import com.estudosflyway.estudosflyway.model.Product; 
+import com.estudosflyway.estudosflyway.model.User; 
+import com.estudosflyway.estudosflyway.repository.ProductRepository; 
 
 import jakarta.persistence.JoinColumn;
 import jakarta.persistence.ManyToOne;

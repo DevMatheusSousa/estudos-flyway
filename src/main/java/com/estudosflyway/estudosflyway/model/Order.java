@@ -3,7 +3,7 @@ package com.estudosflyway.estudosflyway.model;
 import java.math.BigDecimal;
 import java.time.LocalDateTime;
 
-import com.estudosflyway.estudosflyway.dtos.OrderDTO;
+import com.estudosflyway.estudosflyway.controller.dtos.OrderDTO;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
